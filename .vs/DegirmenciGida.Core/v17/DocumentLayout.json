@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|f:\\c#konular\\microserviceseticaret\\degirmencigida.core\\persistence\\saga\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\saga\\orderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\saga\\isagastep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\saga\\isagastep.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\saga\\sagaorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\saga\\sagaorchestrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\transactionmanagers\\itransactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\transactionmanagers\\itransactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\transactionmanagers\\transactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\transactionmanagers\\transactionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\infrastructure\\loggingservices\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\loggingservices\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\repositories\\eventbusrabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\eventbusrabbitmq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\infrastructure\\eventbus\\rabbitmqeventbus\\iintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\eventbus\\rabbitmqeventbus\\iintegrationeventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\infrastructure\\eventbus\\rabbitmqeventbus\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\eventbus\\rabbitmqeventbus\\integrationevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\infrastructure\\eventbus\\rabbitmqeventbus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\eventbus\\rabbitmqeventbus\\ieventbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\infrastructure\\eventbus\\request\\productresponseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\eventbus\\request\\productresponseevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\infrastructure\\eventbus\\request\\productrequestedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\eventbus\\request\\productrequestedevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{57797B53-C913-4CD5-9AEB-0DF59A7FBFE3}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1E9CCD-7756-43DA-A957-7894BE51729C}|Application\\Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\application\\response\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1E9CCD-7756-43DA-A957-7894BE51729C}|Application\\Application.csproj|solutionrelative:application\\response\\getlistresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1E9CCD-7756-43DA-A957-7894BE51729C}|Application\\Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\application\\response\\genericserviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1E9CCD-7756-43DA-A957-7894BE51729C}|Application\\Application.csproj|solutionrelative:application\\response\\genericserviceresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\paging\\basepageablemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1E9CCD-7756-43DA-A957-7894BE51729C}|Application\\Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\application\\operationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1E9CCD-7756-43DA-A957-7894BE51729C}|Application\\Application.csproj|solutionrelative:application\\operationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E1E9CCD-7756-43DA-A957-7894BE51729C}|Application\\Application.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\application\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E1E9CCD-7756-43DA-A957-7894BE51729C}|Application\\Application.csproj|solutionrelative:application\\pagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\repositories\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\repositories\\ientitytimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\ientitytimestamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7CBB5F4-E9E2-4275-8E90-ECC5C03F62FE}|Persistence\\Persistence.csproj|solutionrelative:persistence\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IQueryablePaginateExtensions.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeDocumentMoniker": "Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeToolTip": "Persistence\\Paging\\IQueryablePaginateExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:37:38.472Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Paginate.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Paging\\Paginate.cs",
+              "RelativeDocumentMoniker": "Persistence\\Paging\\Paginate.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Paging\\Paginate.cs",
+              "RelativeToolTip": "Persistence\\Paging\\Paginate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:37:08.214Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\IAsyncRepository.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\IAsyncRepository.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\IAsyncRepository.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwDQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:56:17.854Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EfRepositoryBase.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\EfRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\EfRepositoryBase.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\EfRepositoryBase.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\EfRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T09:50:10.942Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderRequest.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Saga\\OrderRequest.cs",
+              "RelativeDocumentMoniker": "Persistence\\Saga\\OrderRequest.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Saga\\OrderRequest.cs",
+              "RelativeToolTip": "Persistence\\Saga\\OrderRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:22:36.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SagaOrchestrator.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Saga\\SagaOrchestrator.cs",
+              "RelativeDocumentMoniker": "Persistence\\Saga\\SagaOrchestrator.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Saga\\SagaOrchestrator.cs",
+              "RelativeToolTip": "Persistence\\Saga\\SagaOrchestrator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:19:16.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISagaStep.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Saga\\ISagaStep.cs",
+              "RelativeDocumentMoniker": "Persistence\\Saga\\ISagaStep.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Saga\\ISagaStep.cs",
+              "RelativeToolTip": "Persistence\\Saga\\ISagaStep.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T12:18:19.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionManager.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\TransactionManagers\\TransactionManager.cs",
+              "RelativeDocumentMoniker": "Persistence\\TransactionManagers\\TransactionManager.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\TransactionManagers\\TransactionManager.cs",
+              "RelativeToolTip": "Persistence\\TransactionManagers\\TransactionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:42:59.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITransactionManager.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\TransactionManagers\\ITransactionManager.cs",
+              "RelativeDocumentMoniker": "Persistence\\TransactionManagers\\ITransactionManager.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\TransactionManagers\\ITransactionManager.cs",
+              "RelativeToolTip": "Persistence\\TransactionManagers\\ITransactionManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:42:16.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\LoggingServices\\LoggingService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\LoggingServices\\LoggingService.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\LoggingServices\\LoggingService.cs",
+              "RelativeToolTip": "Infrastructure\\LoggingServices\\LoggingService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T11:59:09.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventBusRabbitMQ.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\EventBusRabbitMQ.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\EventBusRabbitMQ.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\EventBusRabbitMQ.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\EventBusRabbitMQ.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAApwDwAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T10:46:09.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductResponseEvent.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\EventBus\\Request\\ProductResponseEvent.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus\\Request\\ProductResponseEvent.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\EventBus\\Request\\ProductResponseEvent.cs",
+              "RelativeToolTip": "Infrastructure\\EventBus\\Request\\ProductResponseEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:53:28.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductRequestedEvent.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\EventBus\\Request\\ProductRequestedEvent.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus\\Request\\ProductRequestedEvent.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\EventBus\\Request\\ProductRequestedEvent.cs",
+              "RelativeToolTip": "Infrastructure\\EventBus\\Request\\ProductRequestedEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:53:21.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IIntegrationEventHandler.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\EventBus\\RabbitMQEventBus\\IIntegrationEventHandler.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus\\RabbitMQEventBus\\IIntegrationEventHandler.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\EventBus\\RabbitMQEventBus\\IIntegrationEventHandler.cs",
+              "RelativeToolTip": "Infrastructure\\EventBus\\RabbitMQEventBus\\IIntegrationEventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:28:02.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEventBus.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\EventBus\\RabbitMQEventBus\\IEventBus.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus\\RabbitMQEventBus\\IEventBus.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\EventBus\\RabbitMQEventBus\\IEventBus.cs",
+              "RelativeToolTip": "Infrastructure\\EventBus\\RabbitMQEventBus\\IEventBus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:27:40.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IntegrationEvent.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\EventBus\\RabbitMQEventBus\\IntegrationEvent.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\EventBus\\RabbitMQEventBus\\IntegrationEvent.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\EventBus\\RabbitMQEventBus\\IntegrationEvent.cs",
+              "RelativeToolTip": "Infrastructure\\EventBus\\RabbitMQEventBus\\IntegrationEvent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T10:26:55.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Infrastructure",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Infrastructure\\Infrastructure.csproj",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Infrastructure\\Infrastructure.csproj",
+              "RelativeToolTip": "Infrastructure\\Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-18T10:24:24.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GetListResponse.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Application\\Response\\GetListResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\GetListResponse.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Application\\Response\\GetListResponse.cs",
+              "RelativeToolTip": "Application\\Response\\GetListResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:37:35.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BasePageableModel.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeDocumentMoniker": "Persistence\\Paging\\BasePageableModel.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Paging\\BasePageableModel.cs",
+              "RelativeToolTip": "Persistence\\Paging\\BasePageableModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:33:50.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PageRequest.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Application\\PageRequest.cs",
+              "RelativeDocumentMoniker": "Application\\PageRequest.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Application\\PageRequest.cs",
+              "RelativeToolTip": "Application\\PageRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T14:53:48.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OperationBase.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Application\\OperationBase.cs",
+              "RelativeDocumentMoniker": "Application\\OperationBase.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Application\\OperationBase.cs",
+              "RelativeToolTip": "Application\\OperationBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:41:54.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GenericServiceResponse.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Application\\Response\\GenericServiceResponse.cs",
+              "RelativeDocumentMoniker": "Application\\Response\\GenericServiceResponse.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Application\\Response\\GenericServiceResponse.cs",
+              "RelativeToolTip": "Application\\Response\\GenericServiceResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T14:48:07.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\BaseEntity.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\BaseEntity.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:12:25.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEntityTimestamps.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\IEntityTimestamps.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\IEntityTimestamps.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\IEntityTimestamps.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\IEntityTimestamps.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T11:10:52.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\IQuery.cs",
+              "RelativeDocumentMoniker": "Persistence\\Repositories\\IQuery.cs",
+              "ToolTip": "F:\\C#Konular\\MicroServicesETicaret\\DegirmenciGida.Core\\Persistence\\Repositories\\IQuery.cs",
+              "RelativeToolTip": "Persistence\\Repositories\\IQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T10:50:01.634Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

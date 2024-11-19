@@ -1,0 +1,17 @@
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\bin\Debug\net6.0\Application.deps.json
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\bin\Debug\net6.0\Application.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\bin\Debug\net6.0\Application.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\bin\Debug\net6.0\Infrastructure.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\bin\Debug\net6.0\Persistence.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\bin\Debug\net6.0\Persistence.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\bin\Debug\net6.0\Infrastructure.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\obj\Debug\net6.0\Applicat.44B5EDA2.Up2Date
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\obj\Debug\net6.0\Application.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\obj\Debug\net6.0\refint\Application.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\obj\Debug\net6.0\Application.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Application\obj\Debug\net6.0\ref\Application.dll

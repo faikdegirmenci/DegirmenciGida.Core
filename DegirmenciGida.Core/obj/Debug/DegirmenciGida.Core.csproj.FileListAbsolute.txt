@@ -1,0 +1,2 @@
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\DegirmenciGida.Core\obj\Debug\DegirmenciGida.Core.csproj.AssemblyReference.cache
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\DegirmenciGida.Core\obj\Debug\DegirmenciGida.Core.csproj.CoreCompileInputs.cache

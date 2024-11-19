@@ -1,0 +1,15 @@
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\bin\Debug\net6.0\Persistence.deps.json
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\bin\Debug\net6.0\Persistence.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\bin\Debug\net6.0\Persistence.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\bin\Debug\net6.0\Infrastructure.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\bin\Debug\net6.0\Infrastructure.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\obj\Debug\net6.0\Persiste.61C28332.Up2Date
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\obj\Debug\net6.0\Persistence.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\obj\Debug\net6.0\Persistence.pdb
+F:\C#Konular\MicroServicesETicaret\DegirmenciGida.Core\Persistence\obj\Debug\net6.0\ref\Persistence.dll
